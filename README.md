@@ -1,6 +1,4 @@
-# Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
-### Date: 
-
+# IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 
 ### AIM:
 To Illustrates how to perform time series analysis and decomposition on the monthly average temperature of a city/country and for airline passengers.
@@ -14,8 +12,6 @@ To Illustrates how to perform time series analysis and decomposition on the mont
 
 ### PROGRAM:
 ```py
-# Kavinraja D
-# 212222240047
 import pandas as pd
 import matplotlib.pyplot as plt
 from statsmodels.tsa.seasonal import seasonal_decompose
